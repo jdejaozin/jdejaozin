@@ -1,5 +1,5 @@
 <h1>Oi, eu sou o João Pedro!</h1>
-- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistema no IFTM- campus Uberaba Parque Tecnologico<br>
+- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistema no IFTM- campus Uberaba Parque Tecnológico<br>
 - 💻 Procurando emprego na área de programação, tanto como front-end e back-end <br>
 - 📚 Estudando Bootstrap e Node.js<br>
 
@@ -21,15 +21,4 @@
 <!--
 Fonte para os ícones = https://devicon.dev/ <br>
 Fonte para o gráfico = https://github.com/anuraghazra/github-readme-stats <br>
-**jdejaozin/jdejaozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
