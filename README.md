@@ -18,6 +18,11 @@
     <a href="https://github.com/jdejaozin">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdejaozin&layout=compact&theme=dracula">
 </div>
+<div>
+    <a href="https://www.linkedin.com/in/joaodev/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> 
+</div>
 
 <!--
 Fonte para os ícones = https://devicon.dev/ <br>
