@@ -21,7 +21,7 @@
 </div>
 <div>
     <a href="https://www.linkedin.com/in/joaodev/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://github-readme-stats.vercel.app/api/top-langs/?username=jdejaozin&langs_count=6&theme=dracula&layout=compact)">
     </a> 
 </div>
 
