@@ -17,7 +17,7 @@
 <div> <br> </div>
 <div>
     <a href="https://github.com/jdejaozin">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdejaozin&langs_count=6&theme=dracula&layout=compact)">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdejaozin&langs_count=6&theme=dracula&layout=compact">
 </div>
 <div>
     <a href="https://www.linkedin.com/in/joaodev/" target="_blank">
