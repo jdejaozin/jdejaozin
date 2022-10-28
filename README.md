@@ -1,6 +1,6 @@
 <h1>Oi, eu sou o João Pedro!</h1>
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistema no IFTM- campus Uberaba Parque Tecnológico<br>
-- 💻 Procurando emprego na área de programação, tanto como front-end e back-end <br>
+- 💻 Obrigado, Augmensys! <br>
 - 📚 Estudando C#<br>
 
 <div style="display: inline_block">
