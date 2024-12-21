@@ -1,19 +1,20 @@
 <h1>Oi, eu sou o João Pedro!</h1>
-- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistema no IFTM- campus Uberaba Parque Tecnológico<br>
+- 🎓 Formado em Análise e Desenvolvimento de Sistema no IFTM <br>
 - 💻 Obrigado, Augmensys! <br>
 - 💻 Obrigado, ABCZ! <br>
-- 📚 Estudando C#<br>
+- 📚 Estudando para ser melhor<br>
 
 <div style="display: inline_block">
     <h2>Linguagens que uso ou já usei</h2>
-    <img align="center" alt="joao-Bootstrap height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-    <img align="center" alt="joao-Html5 height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-    <img align="center" alt="joao-Css3 height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-    <img align="center" alt="joao-JavaScript height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="joao-C# height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" alt="joao-C height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="joao-Python height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-    <img align="center" alt="joao-Node height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+    <img align="center" alt="joao-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+    <img align="center" alt="joao-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+    <img align="center" alt="joao-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+    <img align="center" alt="joao-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img align="center" alt="joao-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="joao-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+    <img align="center" alt="joao-visual-basic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
 </div>
 <div> <br> </div>
 <div>
